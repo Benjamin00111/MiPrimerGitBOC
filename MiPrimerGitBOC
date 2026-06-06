@@ -1,0 +1,27 @@
+Este espacio espacio es para aprender comandos básicos:
+
+primer comando para inicializar proyecto
+
+git init
+git config --global user.name "tunombreusuario"
+git config --global user.email "tuemail"
+
+Esos dos elementos se obtienen en la cuenta de GitHub
+
+Nota: Estos comandos solo se registran una sola vez en una computadora personal
+
+para cargar los archivos del proyecto
+
+git add . //
+
+git status
+
+git branch -M main es para crear una rama 
+
+git commit 
+-M "mi primer repositorio"
+
+git remote 
+
+git push origin rama 
+
